@@ -14,6 +14,6 @@ Esquema do Cenário: Formulário de contato deve ser enviado, após todos os cam
 
    Exemplos:
             | Nome   | Email         | Telefone | Mensagem  |
-            | Pamela | pera@pera.com | XPTO     | Batatinha |
+            | Pamela | pera@pera.com | 1999999999     | Batatinha |
 
     
